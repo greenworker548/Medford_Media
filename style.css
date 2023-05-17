@@ -112,8 +112,10 @@ body {
     color: #fff;
 }
 
+
+
 .power {
-    
+    margin-bottom: 150px;
 }
 
 .power__title {
@@ -150,4 +152,19 @@ body {
     font-weight: 550;
     font-size: 15px;
     line-height: 124%;
+}
+
+
+
+.proce {
+
+}
+
+.price__title {
+    margin: 0px 0px 77px 0px;
+    font-weight: 700;
+    font-size: 60px;
+    text-transform: uppercase;
+    text-align: center;
+    color: #008BF5;
 }
